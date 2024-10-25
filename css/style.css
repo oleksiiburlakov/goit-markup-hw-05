@@ -507,6 +507,10 @@ margin-bottom: 16px;
       box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
 }
 
+.icon-sent{
+      margin-left: 16px;
+}
+
     .subscribe {
       width: 453px;
       margin-left: 80px;
